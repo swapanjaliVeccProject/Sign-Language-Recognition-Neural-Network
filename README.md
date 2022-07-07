@@ -1,11 +1,11 @@
 # Sign-Language-Recognition-Neural-Network
 
-## Project Done by 
-  ## - Swapnanil Ray 
-  ## - Anjali Shaw
+#### Project Done by 
+  #### - Swapnanil Ray 
+  #### - Anjali Shaw
   
-## Supervised and Guided by 
-  ## - Ushnish Sarkar 
+#### Supervised and Guided by 
+  #### - Ushnish Sarkar 
 
 ### This project deals with the Finger Spelling Kinect 2011 Dataset. Which contains pictures of the standard American Sign Language depicting the English Alphabets.
 
