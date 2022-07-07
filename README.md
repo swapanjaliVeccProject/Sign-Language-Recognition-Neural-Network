@@ -11,7 +11,12 @@ This project deals with the Finger Spelling Kinect 2011 Dataset. Which contains 
 [Link to the Dataset](http://www.cvssp.org/FingerSpellingKinect2011/fingerspelling5.tar.bz2)
 
 The Dataset structure is as follows - 
-- 5 Main Directories (A,B,C,D,E)
-- Each Main Directory contains 24 Sub Directories symbolising the 24 Letters* of the English Alphabet.
+&nbsp;&nbsp;&nbsp;&nbsp; - 5 Main Directories (A,B,C,D,E)
+&nbsp;&nbsp;&nbsp;&nbsp; - Each Main Directory contains 24 Sub Directories symbolising the 24 Letters(The letters J and Z are excluded from the dataset since they are expressed as moving gestures and not static gestures.) of the English Alphabet.
 
-* The letters J and Z are excluded from the dataset since they are expressed as moving gestures and not static gestures.
+To Unzip the data use :
+```
+tar -xvf /path/to/fingerspelling5.tar.bz2
+```
+
+
