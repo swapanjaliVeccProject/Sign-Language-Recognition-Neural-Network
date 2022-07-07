@@ -6,8 +6,9 @@
   
 #### Supervised and Guided by 
   #### &nbsp;&nbsp;&nbsp;&nbsp; - Ushnish Sarkar *(Variable Energy Cyclotron Centre, Kolkata)*
-
+  
 This project deals with the Finger Spelling Kinect 2011 Dataset. Which contains pictures of the standard American Sign Language depicting the English Alphabets.
+[Link to the Dataset](http://www.cvssp.org/FingerSpellingKinect2011/fingerspelling5.tar.bz2)
 
 The Dataset structure is as follows - 
 - 5 Main Directories (A,B,C,D,E)
