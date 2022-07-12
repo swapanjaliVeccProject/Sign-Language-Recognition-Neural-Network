@@ -44,7 +44,7 @@ Thinking of each individual node as its own linear regression model, composed of
 
 *Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
-~[*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606210/pasted_image_0_2_zkhbjx.png)
+![*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606210/pasted_image_0_2_zkhbjx.png)
 
 *Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
