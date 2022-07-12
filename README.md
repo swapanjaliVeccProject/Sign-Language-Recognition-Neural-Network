@@ -30,7 +30,7 @@ Neural networks reflect the behavior of the human brain, allowing computer progr
 
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
-[*Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606211/pasted_image_0_rkpsak.png)
+![*Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606211/pasted_image_0_rkpsak.png)
 
 *Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
@@ -40,11 +40,11 @@ Artificial neural networks (ANNs) are comprised of a node layer, containing an i
 
 Thinking of each individual node as its own linear regression model, composed of input data, weights, a bias (or threshold), and an output. The formula would look something like this:
 
-[*Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606209/pasted_image_0_1_yzskzw.png)
+![*Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606209/pasted_image_0_1_yzskzw.png)
 
 *Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
-[*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606210/pasted_image_0_2_zkhbjx.png)
+~[*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606210/pasted_image_0_2_zkhbjx.png)
 
 *Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
