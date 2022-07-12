@@ -281,7 +281,6 @@ We were able to detect the Finger Spelling only for 24 letters. The letter **J**
 
 To detect the excluded letters, we have to use much more complicated architectures like RNN and LSTM, which is beyond the scope of this work. 
 
-Link to Code Repository: [https://github.com/swapanjaliVeccProject/Sign-Language-Recognition-Neural-Network](https://github.com/swapanjaliVeccProject/Sign-Language-Recognition-Neural-Network)
 
 # References
 
