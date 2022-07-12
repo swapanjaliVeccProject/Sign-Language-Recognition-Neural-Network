@@ -264,7 +264,7 @@ In the figure, we can see in the Left Column there are the Test Label Values and
 
 We also find that not all values are matching when compared. Hence we found the number and the percentage of misclassified predictions, the results are below.
 
-![*Fig: Count of misclassified values*](https://res.cloudinary.com/redhatpanda/image/upload/v1657605542/Untitled_17_qbupon.jpg
+![*Fig: Count of misclassified values*](https://res.cloudinary.com/redhatpanda/image/upload/v1657605542/Untitled_17_qbupon.jpg)
 
 *Fig: Count of misclassified values*
 
