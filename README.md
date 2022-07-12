@@ -30,7 +30,7 @@ Neural networks reflect the behavior of the human brain, allowing computer progr
 
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
-[*Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://lh4.googleusercontent.com/Ko0kFJ-GStX6Ase_lYQO29xH3BH4LUXo8_OMRj4fl68T_vMR_QUGAMe5MgFYBL68M2nfEJROmAeQgXBak9a9wxXEXW32qJdDDzNfdWJPAIf_UKrLVmY330xoPdRsuH5WabvVP7lW8_FVJoYLDA)
+[*Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606211/pasted_image_0_rkpsak.png)
 
 *Fig: Figurative Representation of Neural Network (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
@@ -40,11 +40,11 @@ Artificial neural networks (ANNs) are comprised of a node layer, containing an i
 
 Thinking of each individual node as its own linear regression model, composed of input data, weights, a bias (or threshold), and an output. The formula would look something like this:
 
-[*Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://lh4.googleusercontent.com/AMmKrME2pASbcqUuf-QILp54PhHTPWQKsqdUyWTCG2vv2U_Q2KqF9MEidxBEpNTjDKKQcMg0hmkfXVKWzlLUwr5KhdmJv848EYMjVBPv_ORHp6D68yn8m8VtYDjhe_oMGHoHWI1LtuDAQRpXHw)
+[*Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606209/pasted_image_0_1_yzskzw.png)
 
 *Fig: Weights and Bias (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
-[*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://lh5.googleusercontent.com/wGBYh2HrVbeO-RCeUusy25g0xU8xg-1y6KXAnzNrnWMHASfXljofgWiMD7TsFXRqtiiQ2C8ngz53QZJwe6qlhBfeLNYTJ4MtU35rPRjGqAsfctZKYZTNyRklL5OnIPQMZ_dN6qSRP0MHmg9CIA)
+[*Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))](https://res.cloudinary.com/redhatpanda/image/upload/v1657606210/pasted_image_0_2_zkhbjx.png)
 
 *Fig: Output Function (Source:* [https://www.ibm.com/in-en/cloud/learn/neural-networks](https://www.ibm.com/in-en/cloud/learn/neural-networks))
 
